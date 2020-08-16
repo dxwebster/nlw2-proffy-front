@@ -2,7 +2,7 @@
   <img src="readme/Home.png"/>
 </p>
 
-# 📑 Índice
+## 📑 Proffy: Front-end
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
