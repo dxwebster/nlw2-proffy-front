@@ -28,7 +28,7 @@
 
 
 ## 💡 Sobre o Projeto
-Criação do Proffy, uma plataforma para conexão professores e alunos. Acesse o Back-end e o Mobile do projeto:  <br><br>
+Criação do Proffy, uma plataforma para conexão professores e alunos.<br>
 🖥 **Acesse o Back-end [aqui](https://github.com/dxwebster/NLW2-Proffy/tree/master/server)** | 
 📱 **Acesse o Mobile [aqui](https://github.com/dxwebster/NLW2-Proffy/tree/master/mobile)** |
 
