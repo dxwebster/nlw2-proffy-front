@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="readme/Home.png"/>
-</p>
+<h3 align=center>
+<img src="readme/Home.png"/><br>
+
+💻 **Acesse a aplicação [aqui](https://proffy-frontend.herokuapp.com/)**
+<br><br>
+
+</h3>
 
 ## 📑 Proffy: Front-end
 
