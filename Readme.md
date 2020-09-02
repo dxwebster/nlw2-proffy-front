@@ -30,20 +30,8 @@ Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rod
 - Instalar dependências: `yarn install`
 - Rodar Aplicação: `yarn start`
 
-## 🎨 Design
-
-Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
-
-<table>
-  <tr>
-    <td colspan="2">Desktop</td>
-    <td colspan="2">Mobile</td>
-  </tr>
-  <tr>
-    <td><img src="./readme/preview-web.png" width=300 /></td><td><img src="./readme/Formulário.png" width=300 /></td>
-    <td><img src="./readme/preview-mobile.png" width=180 /></td><td><img src="./readme/Home-mobile.png" width=180 /></td>
-  </tr>
-</table>
+## 🛠 Como criar esse projeto do zero
+↳ Acesse a Wiki: https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki
 
 
 ## 📕 Licença
